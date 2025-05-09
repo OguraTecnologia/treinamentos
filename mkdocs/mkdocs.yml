@@ -1,0 +1,42 @@
+site_name: Ogura Contabilidade
+repo_url: https://www.contabilidadeogura.com.br/
+repo_name: Ogura Tecnologia
+nav:
+  - Início: index.md
+  - Portal do Cliente:
+      - Sobre a Aplicação: portal_cliente/portal_cliente.md
+      - Conta e Acesso:               portal_cliente/acesso.md
+      - Documentos Publicados:               portal_cliente/documentos.md
+      - Solicitações para escritório:               portal_cliente/solicitacoes.md
+      - Lançamentos de Rubricas:               portal_cliente/lancamentos.md
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/logo.png
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/weather-night
+        name: Modo noturno
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
+markdown_extensions:
+    - pymdownx.emoji
+    - pymdownx.tasklist # Lista de tarefas
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.highlight
+    - pymdownx.details
+
+extra_css:
+  - assets/extra.css
+
+
+
+
