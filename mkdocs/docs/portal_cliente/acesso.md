@@ -1,6 +1,8 @@
 # Como criar uma conta no Portal do Cliente Ogura
+![Ogura](../assets/thumbmail_acesso_portal.png)
 
-<details>
+## Video de como criar seu Acesso no Portal do Cliente
+<details open>
   <summary>▶️ Como criar uma conta no Portal do Cliente</summary>
 
   <iframe
@@ -45,4 +47,20 @@ O processo é rápido e seguro:
 
 :white_check_mark: Caso não tenha recebido o email ou estiver com qualquer dúvida, 
 entre em contato com nossa equipe. Estamos aqui para ajudar!
+
+## 📞 Entre em Contato Conosco
+
+Tem alguma dúvida, sugestão ou precisa de suporte?
+Nossa equipe está pronta para ajudar você!
+
+**Canais de atendimento:**
+
+| 📧 E-mail         | ogura@ogura.srv.br                    |
+|------------------|---------------------------------------- |
+| 📱 WhatsApp       | (11) 94010-6858                        |
+| ☎️ Telefone       | (11)  3205-0503                         |
+| 🕘 Atendimento     | Segunda a Quinta, das 8h às 18h       |
+| 🕘 Atendimento     | Sexta-feira, das 8h às 17h            |
+
+Ou acesse **[Ogura Contabilidade](https://www.contabilidadeogura.com.br/)**.
  

@@ -29,7 +29,7 @@ Seus dados são protegidos com criptografia de ponta a ponta e autenticação mu
 🚀 **Experimente hoje mesmo**  
 Baixe o app ou acesse pelo navegador e descubra como simplificamos sua rotina contábil!
 
-<details>
+<details open>
   <summary>▶️ Assista à apresentação do APP Portal do Cliente</summary>
 
   <iframe
@@ -50,13 +50,13 @@ Nossa equipe está pronta para ajudar você!
 
 **Canais de atendimento:**
 
-| 📧 E-mail         | atendimento@contabilidadeogura.com.br  |
+| 📧 E-mail         | ogura@ogura.srv.br                     |
 |------------------|---------------------------------------- |
 | 📱 WhatsApp       | (11) 94010-6858                        |
-| ☎️ Telefone       | (11) 0000-0000                         |
+| ☎️ Telefone       | (11)  3205-0503                         |
 | 🕘 Atendimento     | Segunda a Quinta, das 8h às 18h       |
 | 🕘 Atendimento     | Sexta-feira, das 8h às 17h            |
 
 Ou acesse **[Ogura Contabilidade](https://www.contabilidadeogura.com.br/)**.
 
-
+![Ogura](../assets/ogura_30anos_ok.png)
