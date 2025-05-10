@@ -9,7 +9,8 @@ nav:
       - Documentos Publicados :               portal_cliente/documentos.md
       - Solicitações para escritório:               portal_cliente/solicitacoes.md
       - Lançamentos de Rubricas:               portal_cliente/lancamentos.md
-
+  - WhatsApp Web:
+      - Novidades: whatsapp/novidade.md
 theme:
   name: material
   language: pt-BR
