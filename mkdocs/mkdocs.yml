@@ -7,7 +7,7 @@ nav:
       - Sobre a Aplicação: portal_cliente/portal_cliente.md
       - Conta e Acesso:               portal_cliente/acesso.md
       - Documentos Publicados :               portal_cliente/documentos.md
-      - Solicitações para escritório:               portal_cliente/solicitacoes.md
+      - Solicitação Geral:               portal_cliente/solicitacoes.md
       - Lançamentos de Rubricas:               portal_cliente/lancamentos.md
   - WhatsApp Web:
       - Novidades: whatsapp/novidade.md

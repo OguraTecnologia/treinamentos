@@ -21,7 +21,7 @@ sobre qualquer assunto, de forma rápida e organizada.
   <iframe
     width="100%"
     height="360"
-    src="https://www.youtube.com/embed/cXTwCIvXl8U"
+    src="https://www.youtube.com/embed/5r0nTWs4BCg"
     title="App Portal do Cliente"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -115,7 +115,7 @@ Nossa equipe está pronta para ajudar você!
 
 | 📧 E-mail         | ogura@ogura.srv.br                     |
 |------------------|---------------------------------------- |
-| 📱 WhatsApp       | (11) 94010-6858                        |
+| 📱 WhatsApp       | (11) 3205-0503                       |
 | ☎️ Telefone       | (11)  3205-0503                         |
 | 🕘 Atendimento     | Segunda a Quinta, das 8h às 18h       |
 | 🕘 Atendimento     | Sexta-feira, das 8h às 17h            |

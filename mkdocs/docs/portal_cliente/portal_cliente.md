@@ -52,7 +52,7 @@ Nossa equipe está pronta para ajudar você!
 
 | 📧 E-mail         | ogura@ogura.srv.br                     |
 |------------------|---------------------------------------- |
-| 📱 WhatsApp       | (11) 94010-6858                        |
+| 📱 WhatsApp       | (11) 3205-0503                        |
 | ☎️ Telefone       | (11)  3205-0503                         |
 | 🕘 Atendimento     | Segunda a Quinta, das 8h às 18h       |
 | 🕘 Atendimento     | Sexta-feira, das 8h às 17h            |
