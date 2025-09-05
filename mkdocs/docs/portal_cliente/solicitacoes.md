@@ -1,4 +1,4 @@
-![Ogura](../assets/thumbmail_solicitação_suporte.png)
+![Ogura](../assets/thumbmail_solicitação_suporte_atual.png)
 
 
 No Portal do Cliente, você pode registrar solicitações ou enviar arquivos 
